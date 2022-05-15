@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-rest-cameraexception" />
+        <module name="spring-rest-basic" />
+        <module name="spring-rest-productresponse" />
+        <module name="spring-security-jwt" />
+        <module name="spring-restjpa-docker" />
+        <module name="spring-rest-furnexception" />
+        <module name="spring-security-inmemory" />
+        <module name="srping-security-basic" />
+        <module name="spring-projection-productapp" />
+        <module name="spring-selftutorapp-datajpa" />
+        <module name="spring-rest-docker" />
+        <module name="spring-rest-bookdocker" />
+        <module name="spring-rest-bookapp" />
+        <module name="spring-security-productapp-datajpa" />
+        <module name="spring-projection-onetoone" />
+        <module name="spring-security-cameraapp-datajpa" />
+        <module name="spring-rest-camerajpa" />
+      </profile>
+      <profile name="Annotation profile for spring-productapp-projection" enabled="true">
+        <sourceOutputDir name="../spring-projection-productapp/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../spring-projection-productapp/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-productapp-projection" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-productapp-projection" target="11" />
+      <module name="spring-projection-onetoone" target="11" />
+      <module name="spring-projection-productapp" target="11" />
+      <module name="spring-rest-basic" target="11" />
+      <module name="spring-rest-bookapp" target="11" />
+      <module name="spring-rest-bookdocker" target="11" />
+      <module name="spring-rest-cameraexception" target="11" />
+      <module name="spring-rest-camerajpa" target="11" />
+      <module name="spring-rest-docker" target="11" />
+      <module name="spring-rest-furnexception" target="11" />
+      <module name="spring-rest-productresponse" target="11" />
+      <module name="spring-restjpa-docker" target="11" />
+      <module name="spring-security-cameraapp-datajpa" target="11" />
+      <module name="spring-security-inmemory" target="11" />
+      <module name="spring-security-jwt" target="11" />
+      <module name="spring-security-productapp-datajpa" target="11" />
+      <module name="spring-selftutorapp-datajpa" target="11" />
+      <module name="srping-security-basic" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-productapp-projection" options="-parameters" />
+      <module name="spring-projection-onetoone" options="-parameters" />
+      <module name="spring-projection-productapp" options="-parameters" />
+      <module name="spring-rest-basic" options="-parameters" />
+      <module name="spring-rest-bookapp" options="-parameters" />
+      <module name="spring-rest-bookdocker" options="-parameters" />
+      <module name="spring-rest-cameraexception" options="-parameters" />
+      <module name="spring-rest-camerajpa" options="-parameters" />
+      <module name="spring-rest-docker" options="-parameters" />
+      <module name="spring-rest-furnexception" options="-parameters" />
+      <module name="spring-rest-productresponse" options="-parameters" />
+      <module name="spring-restjpa-docker" options="-parameters" />
+      <module name="spring-security-cameraapp-datajpa" options="-parameters" />
+      <module name="spring-security-inmemory" options="-parameters" />
+      <module name="spring-security-jwt" options="-parameters" />
+      <module name="spring-security-productapp-datajpa" options="-parameters" />
+      <module name="spring-selftutorapp-datajpa" options="-parameters" />
+      <module name="srping-security-basic" options="-parameters" />
+    </option>
+  </component>
+</project>

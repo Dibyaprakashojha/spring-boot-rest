@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-projection-onetoone/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-projection-productapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-projection-productapp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-bookapp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-bookdocker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-cameraexception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-camerajpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-docker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-furnexception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest-productresponse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-restjpa-docker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-cameraapp-datajpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-inmemory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-productapp-datajpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-selftutorapp-datajpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-selftutorapp-datajpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/srping-security-basic/src/main/java" charset="UTF-8" />
+  </component>
+</project>

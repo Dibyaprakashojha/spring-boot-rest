@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.ControllerAdvice" />
+    </list>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-rest-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-bookapp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-camerajpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-productresponse/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-furnexception/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-cameraexception/pom.xml" />
+        <option value="$PROJECT_DIR$/srping-security-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-inmemory/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-productapp-datajpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-cameraapp-datajpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-productapp-projection/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-projection-onetoone/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-projection-productapp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-bookdocker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-restjpa-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-assignments/spring-selftutorapp-datajpa/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+version: "3"
+services:
+  product-api: # name of the container
+    image: dibyaprakash04/acheronrepo:product-api
+    networks:
+    - nproduct_sql
+    ports:
+    - "8096:8086"
+    depends_on:
+      - mysqldb
+
+  mysqldb:
+    image: mysql:8
+    networks:
+      - nproduct_sql
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=training
+networks:
+  nproduct_sql:
